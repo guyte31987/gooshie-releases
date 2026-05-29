@@ -1,0 +1,1 @@
+Gooshie Lyrics release channel. Files here are published automatically by CI.
